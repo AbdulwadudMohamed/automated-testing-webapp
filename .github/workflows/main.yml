@@ -1,0 +1,19 @@
+name: Automated Web Application Testing
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Install dependencies
+      run: |
+        echo "No dependencies to install."
+        
+    - name: Run tests
+      run: |
+        echo "No tests to run."
