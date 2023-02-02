@@ -31,4 +31,8 @@ Automate the process of testing a simple web application whenever changes are pu
 - [ ] Automate the process of testing a simple web application whenever changes are pushed to a Github repository.
   - [ ] Use nodejs (or any other alternative)
     - [ ] Run tests using npm
-    
+
+<h4 align = "center">Simple Website</h4>
+<br>
+
+<img src="https://github.com/AbdulwadudMohamed/automated-testing-webapp/blob/master/assets/img/website.png">
