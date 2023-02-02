@@ -9,27 +9,15 @@ Automate the process of testing a simple web application whenever changes are pu
 
 - ##### [Completed Tasks](#completed)
 - ##### [Current Tasks](#current-issues)
-##### [Future Goals](#future-work)
-##### [Dependencies](#dependencies)
-##### [Screenshots](#screenshots)
-##### [Running the Project](#running-the-project)
 
 ### Project Status
 
 
 ##### Completed:
-
+- [x] Upload simple web application to GitHub repoistory
 
 ##### Current issues
-
-
-### Future Work
-
-
-### Dependencies
-
-
-### Screenshots & Demos
-
-
-### Running the Project
+- [ ] Create a pipeline using GitHub Actions. https://github.com/AbdulwadudMohamed/automated-testing-webapp/issues/2
+  - [ ] Task 1. Run automated tests to validate the functionality of the web application. https://github.com/AbdulwadudMohamed/automated-testing-webapp/issues/3
+  - [ ] Task 2. Deploy the application to a test environment. https://github.com/AbdulwadudMohamed/automated-testing-webapp/issues/4
+  - [ ] Task 3. Monitor the deployed application to ensure that it is functioning correctly. https://github.com/AbdulwadudMohamed/automated-testing-webapp/issues/5
